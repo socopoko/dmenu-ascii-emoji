@@ -1,9 +1,9 @@
 # dmenu-scripts
 
 **1. ascii_emoji_selector** 
-- _decription:_ copies the selected ascii emoji to your clipboard 
+- _description:_ copies the selected ascii emoji from dmenu to yourclipboard 
 - _dependencies:_ dmenu, xclip
-- _instructions:_ 
+- _instructions:_
   1. download the script
   2. give executable permission: `chmod +x ascii_emoji_selector.sh`
   3. assign a keyboard shortcut 
