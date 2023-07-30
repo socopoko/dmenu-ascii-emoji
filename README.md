@@ -5,5 +5,5 @@
 - _dependencies:_ dmenu, xclip
 - _instructions:_ 
   1. download the script
-  2. give executable permission: chmod +x ascii_emoji_selector
+  2. give executable permission: `chmod +x ascii_emoji_selector.sh`
   3. assign a keyboard shortcut 
