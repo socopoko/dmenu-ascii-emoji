@@ -1,7 +1,7 @@
 # dmenu-scripts
 
 **1. ascii_emoji_selector** 
-- _description:_ copies the selected ascii emoji from dmenu to yourclipboard 
+- _description:_ copies the selected ascii emoji from dmenu to your clipboard 
 - _dependencies:_ dmenu, xclip
 - _instructions:_
   1. download the script
