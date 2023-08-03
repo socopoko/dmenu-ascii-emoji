@@ -13,7 +13,7 @@ _Examples:_
 
 ## Usage
 
-Dependencies: dmenu, xclip  
+Dependencies: [dmenu](https://tools.suckless.org/dmenu/), [xclip](https://github.com/astrand/xclip)  
 Instructions:  
   1. Download the script.
   2. Give executable permission: `chmod +x dmenu-ascii-emoji.sh`
