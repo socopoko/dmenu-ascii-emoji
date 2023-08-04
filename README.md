@@ -18,5 +18,3 @@ Instructions:
   1. Download the script.
   2. Give executable permission: `chmod +x dmenu-ascii-emoji.sh`
   3. Assign a keyboard shortcut.
-
-enjoy! ٩( ๑╹ ꇴ╹)۶
